@@ -1,0 +1,2 @@
+# HeightMap
+HeightMap class + visualization
